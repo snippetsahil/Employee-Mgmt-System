@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\models\\addemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\models\\addemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\data\\mvcdemodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\data\\mvcdemodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|c:\\users\\91931\\source\\repos\\mynamesahil\\mynamesahil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B02E790-3361-4488-A608-B620925BF168}|MyNameSahil\\MyNameSahil.csproj|solutionrelative:mynamesahil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyNameSahil\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyNameSahil\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T16:48:13.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Models\\AddEmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "MyNameSahil\\Models\\AddEmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Models\\AddEmployeeViewModel.cs",
+              "RelativeToolTip": "MyNameSahil\\Models\\AddEmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:48:01.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyNameSahil\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\appsettings.Development.json",
+              "RelativeToolTip": "MyNameSahil\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T18:14:06.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyNameSahil\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyNameSahil\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:20:39.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "MyNameSahil\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "MyNameSahil\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:14:53.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyNameSahil\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyNameSahil\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwvQAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T16:48:32.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MyNameSahil\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MyNameSahil\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T16:48:43.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyNameSahil\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "MyNameSahil\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T18:11:10.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Models\\Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "MyNameSahil\\Models\\Domain\\Employee.cs",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Models\\Domain\\Employee.cs",
+              "RelativeToolTip": "MyNameSahil\\Models\\Domain\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:35:41.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyNameSahil\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyNameSahil\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T18:12:32.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyNameSahil\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyNameSahil\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T18:10:52.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MVCDemoDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Data\\MVCDemoDbcontext.cs",
+              "RelativeDocumentMoniker": "MyNameSahil\\Data\\MVCDemoDbcontext.cs",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Data\\MVCDemoDbcontext.cs",
+              "RelativeToolTip": "MyNameSahil\\Data\\MVCDemoDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:10:27.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\appsettings.json",
+              "RelativeDocumentMoniker": "MyNameSahil\\appsettings.json",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\appsettings.json",
+              "RelativeToolTip": "MyNameSahil\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T16:14:20.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Program.cs",
+              "RelativeDocumentMoniker": "MyNameSahil\\Program.cs",
+              "ToolTip": "C:\\Users\\91931\\source\\repos\\MyNameSahil\\MyNameSahil\\Program.cs",
+              "RelativeToolTip": "MyNameSahil\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:04:47.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
