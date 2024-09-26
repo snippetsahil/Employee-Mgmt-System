@@ -30,5 +30,6 @@ An Employee Management System built using C#, ASP.NET Core, Entity Framework, an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/snippetsahil//employee-management-system.git
+   https://github.com/snippetsahil/Employee-Mgmt-System.git
+  /* git clone https://github.com/snippetsahil//employee-management-system.git */
 
