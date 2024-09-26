@@ -9,8 +9,7 @@ An Employee Management System built using C#, ASP.NET Core, Entity Framework, an
 - Update existing employee information
 - Delete employees
 - List all employees
-- Responsive front-end (optional: you can include this if applicable)
-
+- Responsive front-end 
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
@@ -31,10 +30,5 @@ An Employee Management System built using C#, ASP.NET Core, Entity Framework, an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
+   git clone https://github.com/snippetsahil//employee-management-system.git
 
-### Notes:
-
-- Replace `YOUR_SERVER` with the name of your SQL Server instance.
-- Replace placeholders like `yourusername`, `your-email@example.com`, and `Your LinkedIn Profile` with actual details.
-- Add any extra sections (e.g., "Known Issues" or "Future Enhancements") based on your project specifics.
